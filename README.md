@@ -16,7 +16,7 @@
 
 - 🌱 Actualmente estoy aprendiendo: **Testing**
 
-- 🧑‍💼  Mis proyectos importantes están en mi portfolio https://goridev.netlify.app/
+- 🧑‍💼  Mis proyectos importantes están en mi portfolio https://matias-zahn.vercel.app/
 
 - 💬 Préguntame : **Node.js, Express, React, TailwindCSS**
 
