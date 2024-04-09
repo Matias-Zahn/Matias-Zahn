@@ -18,9 +18,9 @@
 
 - 🧑‍💼  Mis proyectos importantes están en mi portfolio https://matias-zahn.vercel.app/
 
-- 💬 Préguntame : **Node.js, Express, React, TailwindCSS**
+- 💬 Préguntame : **Nest, Node, React,**
 
-- ⚡ Algo Divertido: **Vivir en Argentina**
+- ⚡ Algo Divertido: **Vivir en Argentina 🫣**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
