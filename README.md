@@ -11,7 +11,7 @@
 
 - 🔭 Actualmente estoy comenzando: **Las interfaces de mis proyectos BACKEND**
 
-- 🌱 Actualmente estoy aprendiendo: **Testing**
+- 🌱 Actualmente estoy aprendiendo: **Angular**
 
 - 🧑‍💼  Mis proyectos importantes están en mi portfolio https://matias-zahn.vercel.app/
 
