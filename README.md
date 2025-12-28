@@ -9,13 +9,13 @@
 
 
 
-- 🔭 Actualmente estoy comenzando: **Las interfaces de mis proyectos BACKEND**
+- 🔭 Actualmente estoy comenzando: **Proyectos y Estudios Personales**
 
 - 🌱 Actualmente estoy aprendiendo: **Angular**
 
 - 🧑‍💼  Mis proyectos importantes están en mi portfolio https://matias-zahn.vercel.app/
 
-- 💬 Préguntame : **Nest, Node, React,**
+- 💬 Préguntame : **Node, Express, Angular**
 
 - ⚡ Algo Divertido: **Vivir en Argentina 🫣**
 
