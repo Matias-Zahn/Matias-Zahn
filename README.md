@@ -13,7 +13,7 @@
 
 - 🌱 Actualmente estoy aprendiendo: **Angular**
 
-- 🧑‍💼  Mis proyectos importantes están en mi portfolio https://matias-zahn.vercel.app/
+- 🧑‍💼  Mis proyectos importantes están en mi portfolio [https://matias-zahn.vercel.app/](https://zahn-matias.vercel.app/)
 
 - 💬 Préguntame : **Node, Express, Angular**
 
